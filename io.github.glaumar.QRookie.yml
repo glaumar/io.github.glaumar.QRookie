@@ -90,3 +90,4 @@ modules:
       - type: git
         url: https://github.com/glaumar/QRookie.git
         tag: v0.4.2
+        commit: f4b0c30af0ac5cb2686288640bf9cf04d221ef64
